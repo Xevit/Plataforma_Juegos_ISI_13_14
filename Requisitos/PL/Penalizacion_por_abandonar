@@ -8,3 +8,5 @@ Para que los jugadores no abandonen la partida si van perdiendo
 
 
 Quiero que se penalice al jugador que abandona una partida sin terminar
+
+-- 20 hombres/dias : separamos por los casos por los que abandone la partida, introducir un umbral temporal (más cercano al final de la partida) y las penalizaciones no están decididas aún. --

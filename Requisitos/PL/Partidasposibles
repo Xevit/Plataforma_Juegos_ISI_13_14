@@ -5,3 +5,5 @@ Como Programador
 Para poder llevar un recuento en los servidores de las partidas totales que podemos soportar
 
 Requisitos:Deben jugarse el máximo número de partidas que se deban soportar.Para ello habrá que calcular la capacidad de los servidores, y las partidas que se podrá dar soporte al cliente.
+
+-- 40 hombres/dias  hay que conocer o estimar la capacidad del servidor, además de saber el número de jugadores actuales, la capacidad de cada partida y demás puntos a tener en cuenta.--
